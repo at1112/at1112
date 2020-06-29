@@ -1,0 +1,193 @@
+<<<<<<< HEAD
+Marissa Joy
+a. I decided to study Data Science for Public Policy because I want to work towards creating change with the technical skills I have and privileges I've had throughout life. Specifically, I want to learn statistical and modeling techniques through a social science lens.
+b. This week, I learned you can use git commands within Jupyter Notebook 
+
+
+Zhenyun Guo
+a. I decided to come to a public policy school because having studied political science in college I was curious about how theories could be applied into practices. I also felt that quantitative skills taught in public policy schools are useful both for careers and further studies.
+b. I learned magic commands.
+c. Tianwei Liu: It's clear that data science has played an increasingly important role in many other fields. For political scientists and sociologists alike, data science has been at the core of quantitative analysis. I also believe that knowledge in data science can help policymakers spread the benefits to a larger group of individuals, as one of the ultimate goals of data techniques is its broad generablizability. 
+
+Digvijay Ghotane
+a. I decided to come to a public policy school because I want to help people. I think areas of health, economy and strategic policy interest me.
+b. In class this week, I learned about Jupyter Notebook, more specifically their support for HTML text and markdown which was not available in VSCode out of the box.
+c. Emma Farber: wanting to help people is something we (and so many others here) have in common! I'm also new to Jupyter Notebook but it seems like a very useful tool. 
+
+Bingrui Li
+a. I decided to come to a public policy school because I am interested in policy making process and I believe data science can be a good tool to make policy decisions more logical.
+b. I learned GitHub & Jupyter Notebook.
+c. Allen Church: I agree that the next generation of policy leaders must leverage the ever-increasing amounts of data in a way that is strategic and equitable.
+
+Adam Hearn
+a. With an economics background, I was always fascinated with the "data" component of research: where the data came from, how it was collected/merged, etc. I am a big proponent of data transparency as well. I want to be able to apply the skills I learn in this DSPP program to more accurately create models to influence policymaking, especially in the higher-education policy sector.
+b. I had always heard of Git-hub from some CS friends, but never understood what it was or how it works. Now I know!
+c. Digvijay Ghotane: I agree on the subject of data transparency with you! It is so necessary especially with scandals related to Cambridge Analytica and their involvement in the Trump2016 campaign along with the Leave EU campaign. Git is something that even I took a while to understand and don't completely understand even now after using it for a bit, I guess we're all on the same page in those terms!
+
+Valarie Bryant
+a. I chose to come to McCourt specifically for the data science program. I am particularly interested in working with conflict event data.
+b. This week, basically everything was new! I had also heard of github but had never used it before.
+c. Zhenyun Guo: I also came to McCourt particularly for the data science program. Studying conflict event data sounds very interesting!
+
+Allen Church
+a. I decided to attend the McCourt School for the DSPP program as it fit with my academic interest in policy and professional interest in data science. I am interested in learning how to leverage open data initiatives at the local level to improve service delivery to under-represented constituents.
+b. I learned magic! I did not know Jupyter Notebook had so many helpful shortcuts.
+c. yuanfeng hu: A ha, we kind of have similar interest in the data science program and I hope we could work together throughout the duration of the program. I was previously pretty used to the jupyter notebook, but I was as surprised as you about learning the new magic command.
+
+yuanfeng hu
+a, I decided to pursue a master degree in data science because I am very interested in the data science industry. I also would like to learn something that is not purely technical so the public policy aspect of this program also fits my interest.
+b, I have never heard of the magic commend such as !, % ,%% in Jupiter Notebook. This is super helpful and would certainly increase my productivity.
+c. Bingrui Li: Those magic commands can really help a lot!
+
+Eric LaRose
+a. I decided to come to a public policy school because I am passionate about using evidence-based policy to make tangible improvements in individuals' lives. Because I come from a pretty strong background in math and economic research, I thought a joint data science-policy program such as the DSPP was a better match for my interests than a traditional MPP. I chose McCourt specifically because of its interdisciplinary approach (compared to, say, UChicago's more econ-centric approach) and its location close to so many great policy organizations. My main public policy interests are urban policy, transportation policy, and spatial/geographic inequality.
+b. I learned how to use Git/GitHub, and more on how to interact with the command line. 
+GitHub seems like a much more efficient method of version control than my previous strategy of saving the same file dozens of times with different names corresponding to different dates.
+c. Anjali Taneja - My background is also primarily technical (math/science), and I think this program's emphasis on taking an interdisciplinary approach will turn out to be of huge benefit. Many technical problems / research cannot be solved/carried out with quantitative approaches alone - it's important to consider the funding structures and policy frameworks that serve as the larger context & setting for this type of work.
+
+Tianwei Liu
+a. I decided to come to a public policy school because I aspired to make informed policy decisions based on rigorous data analysis results rather than on intuition or imagination. Because of my background in Sociology and Mathematics, I had a unique sense of social sensitivity as well as a strong passion in utilizing numbers and stats to promote social good. I am primarily interested in education policy and technology policy.
+b. I learned various version control systems and GitHub especially. GitHub is really a cool space to store and sync your files and collaborate with others.
+c. Adam Hearn: Sociology is an underrated field in the study of policymaking. In order to make informed policy decisions, the structure of how organizations and humans interact is vital. Combining your sociology background with the analytical/quantitative tools gained from this DSPP program will lend you a unique skill-set going into the real world. 
+
+Emma Farber
+a. I decided to study public policy because I'm passionate about the social issues that affect my community. There are so many urgent public issues, and I feel that none of us can sit on the sidelines anymore - we have an obligation to ourselves and our society to fight for better policy. I hope to use data science as a means of finding effective solutions. 
+b. Almost everything I learned in class this week was new to me. I've never used git before and have had almost no experience interacting in the terminal. Looking forward to getting more comfortable! 
+c. Andy Green: I totally agree about the feeling that none of us can sit on the sidelines any more - that feeling is a big part of what motivated me to apply to this program too. Hopefully by the end of this program we will all feel sufficiently off the sidelines!
+
+
+Andy Green
+a. I decided to come to public policy school because I was feeling unfulfilled in my career, and I wanted to make a shift into something I'm more passionate about. I've always enjoyed working with data, so this program seemed like a perfect opportunity to learn some really valuable technical skills, and get the opportunity to apply them to a field that really interests me. I'm really interested in labor markets and workforce development policy.
+b. I had never used Github or Git in general prior to this week, so I learned a lot about the basics of how to work with them and how valuable they can be. I've worked with a lot of shared Excel documents over the years (which can be a bit of a nightmare) so I'm looking forward to a cleaner tool for collaboration.
+c. Eric LaRose: I completely emphasize with feeling unfilled in a career. Prior to this, I was primarily doing empirical academic economics research, and while the work was often interesting and policy-relevant it was hard to feel like I was making a tangible difference in peoples' lives. I'm also interested in labor markets and workforce development, especially as it pertains to the growing spatial and geographic inequality in this country.
+
+Anjali Taneja
+a. I decided to come to a public policy school because I'm interest in the policy contexts surrounding biomedical research & health tech (funding infrastructures, clinical trials, data policy). I'd like to apply my experience in that space & technical background to working at the intersection of analytics and tech policy. 
+b. I learned how to embed images in Jupyter notebooks
+c. Xi Li:It is really nice to apply learnt knowledge into practice.Also, health tech is a field growing really fast(especially in China) and needs a lot of data analysts.
+
+Xiyang Xu
+a. I attend the McCourt School and study Data Science for Public Policy because I want to accumulate systematic training on the application of data analysis tools to explore practicable solutions to aging related problems. My main policy interests are pension policy and social welfare policy.
+b. I used to use spyder, and this week I learned about jupyter notebook which is super useful. Beyond that, I learned and used GitHub for the first time, looking forward to becoming more proficient.
+c. Huizhi Gong: I am also very interested in the social welfare policy as well! I too agree the systematic trining on the data analysis skills is very helpful in providing useful solutions.
+
+Xi Li
+a. I come to GU because I am interested in the education policy in Tibet.Besides, coding and data analyzing are fun and useful when doing researches.
+b. I learnt to save gits and collaborate on Github this week.
+c. Xin Wei: Yes, data analyzing is really fun and useful, like a magic.
+
+Jingjing Tu
+a. I decided to come to a public policy school and this data science program because I am passionate in public affairs. To me, the public affairs world is always dynamic and intriguing. And I am pretty curious about how is like viewing public affairs from a more data-driven view. My main policy interests are education policy and social policy.
+b. The thing I learned this week is completely new to me. I am still trying to figure that out. Hope I can catch up next week.
+c. Valarie Bryant: I also love public affairs because of how interesting it is! There is always something new to learn.
+
+Hannah Gong
+a. I decided to come to DSPP because I have a passion for utilizing data to solve urban challenges. I hope this program can build me a solid quantitative foundation for future analysis jobs. 
+b. This week I learned how to use GitHub, although I have not caught up with the readings completely.
+c. Nerissa Lemon: I love that you also have a passsion using data for real world problem solving! I also joined this program in order to better use data to solve more human challenges.  
+
+Nerissa Lemon
+a. I decided to come to a public policy school because even though I have a love for data science, I wanted to be able to help others. I'm interested in women's health public policy- specifically, I'm interested in sexual assault public policy. 
+b. This week I learned more about juptyer notebooks, and how to use it with the command line. 
+
+Xin Wei
+a. I decided to come to a public policy school because I wanted to learn more practical knowledge and skills about how to making policies. I am interested in data science as well. In my undergradute, I studied economics, but I wanted to learn more about how these economic theories shape the real world's policies.
+=======
+Marissa Joy
+a. I decided to study Data Science for Public Policy because I want to work towards creating change with the technical skills I have and privileges I've had throughout life. Specifically, I want to learn statistical and modeling techniques through a social science lens.
+b. This week, I learned you can use git commands within Jupyter Notebook 
+c. Bingrui Li: Our reasons for coming are very similar! I have some of the data science tools but I wanted to leverage them for creating better policies or outcomes for people in marginalized communities. 
+
+Zhenyun Guo
+a. I decided to come to a public policy school because having studied political science in college I was curious about how theories could be applied into practices. I also felt that quantitative skills taught in public policy schools are useful both for careers and further studies.
+b. I learned magic commands.
+c. Tianwei Liu: It's clear that data science has played an increasingly important role in many other fields. For political scientists and sociologists alike, data science has been at the core of quantitative analysis. I also believe that knowledge in data science can help policymakers spread the benefits to a larger group of individuals, as one of the ultimate goals of data techniques is its broad generablizability. 
+
+Digvijay Ghotane
+a. I decided to come to a public policy school because I want to help people. I think areas of health, economy and strategic policy interest me.
+b. In class this week, I learned about Jupyter Notebook, more specifically their support for HTML text and markdown which was not available in VSCode out of the box.
+c. Emma Farber: wanting to help people is something we (and so many others here) have in common! I'm also new to Jupyter Notebook but it seems like a very useful tool. 
+
+Bingrui Li
+a. I decided to come to a public policy school because I am interested in policy making process and I believe data science can be a good tool to make policy decisions more logical.
+b. I learned GitHub & Jupyter Notebook.
+c. Allen Church: I agree that the next generation of policy leaders must leverage the ever-increasing amounts of data in a way that is strategic and equitable.
+
+Adam Hearn
+a. With an economics background, I was always fascinated with the "data" component of research: where the data came from, how it was collected/merged, etc. I am a big proponent of data transparency as well. I want to be able to apply the skills I learn in this DSPP program to more accurately create models to influence policymaking, especially in the higher-education policy sector.
+b. I had always heard of Git-hub from some CS friends, but never understood what it was or how it works. Now I know!
+c. Digvijay Ghotane: I agree on the subject of data transparency with you! It is so necessary especially with scandals related to Cambridge Analytica and their involvement in the Trump2016 campaign along with the Leave EU campaign. Git is something that even I took a while to understand and don't completely understand even now after using it for a bit, I guess we're all on the same page in those terms!
+
+Valarie Bryant
+a. I chose to come to McCourt specifically for the data science program. I am particularly interested in working with conflict event data.
+b. This week, basically everything was new! I had also heard of github but had never used it before.
+c. Zhenyun Guo: I also came to McCourt particularly for the data science program. Studying conflict event data sounds very interesting!
+
+Allen Church
+a. I decided to attend the McCourt School for the DSPP program as it fit with my academic interest in policy and professional interest in data science. I am interested in learning how to leverage open data initiatives at the local level to improve service delivery to under-represented constituents.
+b. I learned magic! I did not know Jupyter Notebook had so many helpful shortcuts.
+c. yuanfeng hu: A ha, we kind of have similar interest in the data science program and I hope we could work together throughout the duration of the program. I was previously pretty used to the jupyter notebook, but I was as surprised as you about learning the new magic command.
+
+yuanfeng hu
+a, I decided to pursue a master degree in data science because I am very interested in the data science industry. I also would like to learn something that is not purely technical so the public policy aspect of this program also fits my interest.
+b, I have never heard of the magic commend such as !, % ,%% in Jupiter Notebook. This is super helpful and would certainly increase my productivity.
+c. Bingrui Li: Those magic commands can really help a lot!
+
+Eric LaRose
+a. I decided to come to a public policy school because I am passionate about using evidence-based policy to make tangible improvements in individuals' lives. Because I come from a pretty strong background in math and economic research, I thought a joint data science-policy program such as the DSPP was a better match for my interests than a traditional MPP. I chose McCourt specifically because of its interdisciplinary approach (compared to, say, UChicago's more econ-centric approach) and its location close to so many great policy organizations. My main public policy interests are urban policy, transportation policy, and spatial/geographic inequality.
+b. I learned how to use Git/GitHub, and more on how to interact with the command line. 
+GitHub seems like a much more efficient method of version control than my previous strategy of saving the same file dozens of times with different names corresponding to different dates.
+c. Anjali Taneja - My background is also primarily technical (math/science), and I think this program's emphasis on taking an interdisciplinary approach will turn out to be of huge benefit. Many technical problems / research cannot be solved/carried out with quantitative approaches alone - it's important to consider the funding structures and policy frameworks that serve as the larger context & setting for this type of work.
+
+Tianwei Liu
+a. I decided to come to a public policy school because I aspired to make informed policy decisions based on rigorous data analysis results rather than on intuition or imagination. Because of my background in Sociology and Mathematics, I had a unique sense of social sensitivity as well as a strong passion in utilizing numbers and stats to promote social good. I am primarily interested in education policy and technology policy.
+b. I learned various version control systems and GitHub especially. GitHub is really a cool space to store and sync your files and collaborate with others.
+c. Adam Hearn: Sociology is an underrated field in the study of policymaking. In order to make informed policy decisions, the structure of how organizations and humans interact is vital. Combining your sociology background with the analytical/quantitative tools gained from this DSPP program will lend you a unique skill-set going into the real world. 
+
+Emma Farber
+a. I decided to study public policy because I'm passionate about the social issues that affect my community. There are so many urgent public issues, and I feel that none of us can sit on the sidelines anymore - we have an obligation to ourselves and our society to fight for better policy. I hope to use data science as a means of finding effective solutions. 
+b. Almost everything I learned in class this week was new to me. I've never used git before and have had almost no experience interacting in the terminal. Looking forward to getting more comfortable! 
+c. Andy Green: I totally agree about the feeling that none of us can sit on the sidelines any more - that feeling is a big part of what motivated me to apply to this program too. Hopefully by the end of this program we will all feel sufficiently off the sidelines!
+
+
+Andy Green
+a. I decided to come to public policy school because I was feeling unfulfilled in my career, and I wanted to make a shift into something I'm more passionate about. I've always enjoyed working with data, so this program seemed like a perfect opportunity to learn some really valuable technical skills, and get the opportunity to apply them to a field that really interests me. I'm really interested in labor markets and workforce development policy.
+b. I had never used Github or Git in general prior to this week, so I learned a lot about the basics of how to work with them and how valuable they can be. I've worked with a lot of shared Excel documents over the years (which can be a bit of a nightmare) so I'm looking forward to a cleaner tool for collaboration.
+c. Eric LaRose: I completely emphasize with feeling unfilled in a career. Prior to this, I was primarily doing empirical academic economics research, and while the work was often interesting and policy-relevant it was hard to feel like I was making a tangible difference in peoples' lives. I'm also interested in labor markets and workforce development, especially as it pertains to the growing spatial and geographic inequality in this country.
+
+Anjali Taneja
+a. I decided to come to a public policy school because I'm interest in the policy contexts surrounding biomedical research & health tech (funding infrastructures, clinical trials, data policy). I'd like to apply my experience in that space & technical background to working at the intersection of analytics and tech policy. 
+b. I learned how to embed images in Jupyter notebooks
+c. Xi Li:It is really nice to apply learnt knowledge into practice.Also, health tech is a field growing really fast(especially in China) and needs a lot of data analysts.
+
+Xiyang Xu
+a. I attend the McCourt School and study Data Science for Public Policy because I want to accumulate systematic training on the application of data analysis tools to explore practicable solutions to aging related problems. My main policy interests are pension policy and social welfare policy.
+b. I used to use spyder, and this week I learned about jupyter notebook which is super useful. Beyond that, I learned and used GitHub for the first time, looking forward to becoming more proficient.
+
+Xi Li
+a. I come to GU because I am interested in the education policy in Tibet.Besides, coding and data analyzing are fun and useful when doing researches.
+b. I learnt to save gits and collaborate on Github this week.
+c. Xin Wei: Yes, data analyzing is really fun and useful, like a magic.
+
+Jingjing Tu
+a. I decided to come to a public policy school and this data science program because I am passionate in public affairs. To me, the public affairs world is always dynamic and intriguing. And I am pretty curious about how is like viewing public affairs from a more data-driven view. My main policy interests are education policy and social policy.
+b. The thing I learned this week is completely new to me. I am still trying to figure that out. Hope I can catch up next week.
+c. Xiyang Xu: Lots of knowledge and skills we learned this week are new to me as well! Looking forward to the next week! 
+
+Hannah Gong
+a. I decided to come to DSPP because I have a passion for utilizing data to solve urban challenges. I hope this program can build me a solid quantitative foundation for future analysis jobs. 
+b. This week I learned how to use GitHub, although I have not caught up with the readings completely.
+c. Erden Yichen Sang: Me too, I haven't caught with the readings either.
+
+Nerissa Lemon
+a. I decided to come to a public policy school because even though I have a love for data science, I wanted to be able to help others. I'm interested in women's health public policy- specifically, I'm interested in sexual assault public policy. 
+b. This week I learned more about juptyer notebooks, and how to use it with the command line. 
+c. Marissa Joy: Our reasons for coming are very similar! I have some of the data science tools but I really want to be able to leverage these tools for creating better policies or outcomes for people in marginalized communities. 
+
+Xin Wei
+a. I decided to come to a public policy school because I wanted to learn more practical knowledge and skills about how to making policies. I am interested in data science as well. In my undergradute, I studied economics, but I wanted to learn more about how these economic theories shape the real world's policies.
+b. I learned how to use github and how to start jupyter notebook this week.
+
+Erden Yichen Sang
+a. I decided to come to a public policy school because I want to know relationship between government policy and financial market.
+b. I learned to work in team in Github. 
